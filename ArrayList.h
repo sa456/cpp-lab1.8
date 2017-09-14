@@ -10,6 +10,14 @@
 #define LAB1_ARRAYLIST_H
 
 
+/**
+ * @brief rласс массива
+ *
+ * Содержит переменную длинны, указатель на массив типа int, методы работы с массивом
+ * @param array указатель на массив
+ * @param langth длинна массива
+ */
+
 class ArrayList {
 protected:
     int *array;
